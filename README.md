@@ -1,50 +1,18 @@
-# Radiance Cascades Compared to Unity’s Standard Global Illumination Methods
+Contributing
 
-DIGRA conference experiment setup
+Contributions to this repository are welcome. If you would like to improve the experimental setup, validate the results, fix issues, or extend the comparison of real-time global illumination methods in Unity URP, feel free to contribute.
 
+How to Contribute
+Fork this repository.
+Create a branch for your changes.
+Make your changes and ensure that experimental results, datasets, and figures remain accurate and reproducible.
+Commit your changes with a clear and descriptive message.
+Submit a pull request describing your changes and their purpose.
+Contribution Guidelines
+Keep changes relevant to the evaluation of real-time global illumination methods.
+Document any modifications to the experimental setup, rendering configuration, or benchmarking procedures.
+Include supporting data or evidence when proposing changes to experimental results.
+Ensure compatibility with the specified Unity version whenever possible.
+Report bugs, issues, or suggestions through GitHub Issues.
 
-
-This repository contains the experimental materials for the paper:
-
-
-
-"Comparative Evaluation of Real-Time Global Illumination Methods in Unity URP"
-
-
-
-\## Contents
-
-
-
-\- Raw FPS and frame time datasets
-
-\- Generated figures used in the paper
-
-\- Render Video recorded for visual comparison can be seen on Youtube Playlist: https://www.youtube.com/watch?v=daDjPJyB86o&list=PLaHv1eGKS6CyZF2IG05RV7KAHvvU5-xIQ
-
-
-
-\## Engine Version
-
-
-
-Unity 6000.2.12f1
-
-
-
-\## Hardware
-
-
-
-NVIDIA RTX 4060 Laptop GPU  
-
-Intel Core i7-13620H
-
-
-
-\## License
-
-
-
-MIT
-
+Thank you for your interest in improving this research project and supporting reproducible research in real-time global illumination.
